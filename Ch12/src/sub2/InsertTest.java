@@ -27,7 +27,7 @@ public static void main(String[] args) {
 			stmt.executeUpdate(sql);
 			
 			// 5단계 	SQL 결과 처리(SELECT일 경우)
-			
+			 
 			
 			// 6단계 	데이터베이스 접속종료
 			conn.close();
